@@ -37,6 +37,7 @@ I am currently a 2nd-year Computer Science Major in Application Development in t
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/-React%20native-000?style=for-the-badge&logo=React"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff"/>
 </p>
 <p>
@@ -54,6 +55,12 @@ I am currently a 2nd-year Computer Science Major in Application Development in t
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 </p>
 
+### Game Engines
+
+<p>
+  <img src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine"/>
+</p>
+
 <hr>
 
 ## Currently Working On 🔭
@@ -62,9 +69,9 @@ I am currently a 2nd-year Computer Science Major in Application Development in t
 ### Applications
 
 - FretNote - A songwriting collaboration app.  
-  <img src="https://img.shields.io/badge/Expo-000000?logo=Expo&logoColor=white"/> <img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"/> <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square"/> <img src="https://img.shields.io/badge/-React%20native-000?&logo=React"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Expo-000000?style=flat-square&logo=Expo&logoColor=white"/> <img src="https://shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=FFF"/> <img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square"/> <img src="https://img.shields.io/badge/-React%20native-000?&logo=React&style=flat-square"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat-square"/>
 - Minimal Launcher - A minimal android system launcher minimizing distraction.<br>
-  <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white"/> <img src="https://img.shields.io/badge/.NET-512BD4?&logo=dotnet&logoColor=fff"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=flat-square&logo=cshrp&logoColor=white"/> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=fff"/>
 
 <hr>
 
@@ -72,6 +79,8 @@ I am currently a 2nd-year Computer Science Major in Application Development in t
 
 ### Email: alberoedrian@gmail.com | edrian.albero0@gmail.com
 ###### For academic/school purposes: jalbero.0074@umak.edu.ph
+
+### Also check out my [<img src="https://img.shields.io/badge/itch.io-%23FF0B34.svg?style=flat-square&logo=Itch.io&logoColor=white"/>](https://cycolour.itch.io/) page!
 
 <hr>
 
