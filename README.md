@@ -15,6 +15,12 @@ I am currently a 2nd-year Computer Science Major in Application Development in t
 
 - InfoTechnolympics 2025 (🏆 3rd Place Java)
 
+### Game Jams
+
+- Pizza Jam 12 (5th place) 
+- 2D Game Jam 2024 (9th place)
+- Chill Jam 9
+
 <hr>
 
 ## Tech Stack & Tools 🛠️
@@ -28,6 +34,7 @@ I am currently a 2nd-year Computer Science Major in Application Development in t
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white&style=for-the-badge"/>
 </p>
 
 ### Libraries / Frameworks
